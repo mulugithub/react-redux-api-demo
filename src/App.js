@@ -4,7 +4,7 @@ import Users from './components/fetchedUsers';
 function App() {
   return (
     <div className="App">
-     <Users />
+      <Users />
     </div>
   );
 }
